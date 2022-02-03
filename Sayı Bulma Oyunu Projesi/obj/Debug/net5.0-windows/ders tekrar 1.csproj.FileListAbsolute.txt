@@ -1,0 +1,18 @@
+C:\Users\kpln2\OneDrive\Masaüstü\Yaptıklarım\ders tekrar 1\obj\Debug\net5.0-windows\ders tekrar 1.csproj.AssemblyReference.cache
+C:\Users\kpln2\OneDrive\Masaüstü\Yaptıklarım\ders tekrar 1\obj\Debug\net5.0-windows\ders_tekrar_1.Form1.resources
+C:\Users\kpln2\OneDrive\Masaüstü\Yaptıklarım\ders tekrar 1\obj\Debug\net5.0-windows\ders tekrar 1.csproj.GenerateResource.cache
+C:\Users\kpln2\OneDrive\Masaüstü\Yaptıklarım\ders tekrar 1\obj\Debug\net5.0-windows\ders tekrar 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kpln2\OneDrive\Masaüstü\Yaptıklarım\ders tekrar 1\obj\Debug\net5.0-windows\ders tekrar 1.AssemblyInfoInputs.cache
+C:\Users\kpln2\OneDrive\Masaüstü\Yaptıklarım\ders tekrar 1\obj\Debug\net5.0-windows\ders tekrar 1.AssemblyInfo.cs
+C:\Users\kpln2\OneDrive\Masaüstü\Yaptıklarım\ders tekrar 1\obj\Debug\net5.0-windows\ders tekrar 1.csproj.CoreCompileInputs.cache
+C:\Users\kpln2\OneDrive\Masaüstü\Yaptıklarım\ders tekrar 1\bin\Debug\net5.0-windows\ders tekrar 1.exe
+C:\Users\kpln2\OneDrive\Masaüstü\Yaptıklarım\ders tekrar 1\bin\Debug\net5.0-windows\ders tekrar 1.deps.json
+C:\Users\kpln2\OneDrive\Masaüstü\Yaptıklarım\ders tekrar 1\bin\Debug\net5.0-windows\ders tekrar 1.runtimeconfig.json
+C:\Users\kpln2\OneDrive\Masaüstü\Yaptıklarım\ders tekrar 1\bin\Debug\net5.0-windows\ders tekrar 1.runtimeconfig.dev.json
+C:\Users\kpln2\OneDrive\Masaüstü\Yaptıklarım\ders tekrar 1\bin\Debug\net5.0-windows\ders tekrar 1.dll
+C:\Users\kpln2\OneDrive\Masaüstü\Yaptıklarım\ders tekrar 1\bin\Debug\net5.0-windows\ref\ders tekrar 1.dll
+C:\Users\kpln2\OneDrive\Masaüstü\Yaptıklarım\ders tekrar 1\bin\Debug\net5.0-windows\ders tekrar 1.pdb
+C:\Users\kpln2\OneDrive\Masaüstü\Yaptıklarım\ders tekrar 1\obj\Debug\net5.0-windows\ders tekrar 1.dll
+C:\Users\kpln2\OneDrive\Masaüstü\Yaptıklarım\ders tekrar 1\obj\Debug\net5.0-windows\ref\ders tekrar 1.dll
+C:\Users\kpln2\OneDrive\Masaüstü\Yaptıklarım\ders tekrar 1\obj\Debug\net5.0-windows\ders tekrar 1.pdb
+C:\Users\kpln2\OneDrive\Masaüstü\Yaptıklarım\ders tekrar 1\obj\Debug\net5.0-windows\ders tekrar 1.genruntimeconfig.cache
